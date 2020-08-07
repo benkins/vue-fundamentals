@@ -34,7 +34,7 @@ main {
   margin: 0 auto;
   padding: -30px;
   background-color: white;
-  width: 800px;
-  min-height: 300px;
+  width: 1000px;
+  min-height: 500px;
 }
 </style>
